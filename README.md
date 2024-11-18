@@ -61,5 +61,5 @@ Instructions for Use:
 UML Diagram:
 
 
-<img width="951" alt="Screenshot 2024-11-18 at 12 31 32 PM" src="https://github.com/user-attachments/assets/7dfc3f1f-6c64-483f-bae7-b9e33b6e8b65">
+<img width="1038" alt="Screenshot 2024-11-18 at 1 02 07 PM" src="https://github.com/user-attachments/assets/1cd0dc9c-4082-46ba-abb5-4c71397ffdff">
 
