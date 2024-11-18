@@ -39,7 +39,9 @@ Receiving Data:
 Instructions for Use:
 1. Clone the repository
 2. Install dependencies:
+   
     pip install flask
+   
     pip install requests
 3. Run the microservice: (The microservice runs at "http://localhost:5025/randomize")
     python randomizer_microservice.py
