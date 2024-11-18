@@ -41,7 +41,7 @@ Instructions for Use:
 2. Install dependencies:
     pip install flask
     pip install requests
-3. Run the microservice: (The microservice runs at "http://localhost:5000/randomize")
+3. Run the microservice: (The microservice runs at "http://localhost:5025/randomize")
     python randomizer_microservice.py
 4. Make a request to the microservice:
     import requests
@@ -51,7 +51,7 @@ Instructions for Use:
         "previously_selected": [3, 8, 15]
     }
 
-    response = requests.post("http://localhost:5000/randomize", json=payload)
+    response = requests.post("http://localhost:5025/randomize", json=payload)
 
     print(response.json())
 
