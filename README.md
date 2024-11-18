@@ -1,4 +1,8 @@
-README for Question Randomizer Microservice
+# Question Randomizer Microservice  
+### Developed by Ryan Doering  
+
+---
+---
 Overview:
 This microservice allows users to request a specific number of random questions from a larger pool of questions. It supports reducing the likelihood of previously selected questions being chosen again and ensures reliable, non-duplicative question selection. It uses python.
 
